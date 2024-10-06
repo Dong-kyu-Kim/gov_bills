@@ -1,0 +1,1001 @@
+,Bill Number,First Name,Last Name,Party,State,Vote Cast
+0,H.R. 9747,Tammy,Baldwin,D,WI,Yea
+1,H.R. 9747,John,Barrasso,R,WY,Yea
+2,H.R. 9747,Michael,Bennet,D,CO,Yea
+3,H.R. 9747,Marsha,Blackburn,R,TN,Nay
+4,H.R. 9747,Richard,Blumenthal,D,CT,Yea
+5,H.R. 9747,Cory,Booker,D,NJ,Yea
+6,H.R. 9747,John,Boozman,R,AR,Yea
+7,H.R. 9747,Mike,Braun,R,IN,Nay
+8,H.R. 9747,Katie,Britt,R,AL,Nay
+9,H.R. 9747,Sherrod ,Brown,D,OH,Yea
+10,H.R. 9747,Ted,Budd,R,NC,Nay
+11,H.R. 9747,Laphonza,Butler,D,CA,Yea
+12,H.R. 9747,Maria,Cantwell,D,WA,Yea
+13,H.R. 9747,Shelley,Capito,R,WV,Yea
+14,H.R. 9747,Ben,Cardin,D,MD,Yea
+15,H.R. 9747,Thomas,Carper,D,DE,Yea
+16,H.R. 9747,Bob,Casey,D,PA,Yea
+17,H.R. 9747,Bill,Cassidy,R,LA,Yea
+18,H.R. 9747,Susan,Collins,R,ME,Yea
+19,H.R. 9747,Christopher,Coons,D,DE,Not Voting
+20,H.R. 9747,John,Cornyn,R,TX,Yea
+21,H.R. 9747,Catherine,Cortez Masto,D,NV,Yea
+22,H.R. 9747,Tom,Cotton,R,AR,Not Voting
+23,H.R. 9747,Kevin,Cramer,R,ND,Yea
+24,H.R. 9747,Mike,Crapo,R,ID,Nay
+25,H.R. 9747,Ted,Cruz,R,TX,Yea
+26,H.R. 9747,Steve,Daines,R,MT,Yea
+27,H.R. 9747,Tammy,Duckworth,D,IL,Yea
+28,H.R. 9747,Richard,Durbin,D,IL,Yea
+29,H.R. 9747,Joni,Ernst,R,IA,Yea
+30,H.R. 9747,John,Fetterman,D,PA,Yea
+31,H.R. 9747,Deb,Fischer,R,NE,Nay
+32,H.R. 9747,Kirsten,Gillibrand,D,NY,Yea
+33,H.R. 9747,Lindsey,Graham,R,SC,Yea
+34,H.R. 9747,Chuck,Grassley,R,IA,Yea
+35,H.R. 9747,Bill,Hagerty,R,TN,Nay
+36,H.R. 9747,Maggie,Hassan,D,NH,Yea
+37,H.R. 9747,Josh,Hawley,R,MO,Nay
+38,H.R. 9747,Martin,Heinrich,D,NM,Yea
+39,H.R. 9747,George,Helmy,D,NJ,Yea
+40,H.R. 9747,John,Hickenlooper,D,CO,Yea
+41,H.R. 9747,Mazie,Hirono,D,HI,Yea
+42,H.R. 9747,John,Hoeven,R,ND,Yea
+43,H.R. 9747,Cindy,Hyde-Smith,R,MS,Yea
+44,H.R. 9747,Ron,Johnson,R,WI,Nay
+45,H.R. 9747,Timothy,Kaine,D,VA,Yea
+46,H.R. 9747,Mark,Kelly,D,AZ,Yea
+47,H.R. 9747,John,Kennedy,R,LA,Yea
+48,H.R. 9747,Angus,King,I,ME,Yea
+49,H.R. 9747,Amy,Klobuchar,D,MN,Yea
+50,H.R. 9747,James,Lankford,R,OK,Yea
+51,H.R. 9747,Mike,Lee,R,UT,Nay
+52,H.R. 9747,Ben,Lujan,D,NM,Yea
+53,H.R. 9747,Cynthia,Lummis,R,WY,Yea
+54,H.R. 9747,Joseph,Manchin,I,WV,Yea
+55,H.R. 9747,Edward,Markey,D,MA,Yea
+56,H.R. 9747,Roger,Marshall,R,KS,Nay
+57,H.R. 9747,Mitch,McConnell,R,KY,Yea
+58,H.R. 9747,Jeff,Merkley,D,OR,Yea
+59,H.R. 9747,Jerry,Moran,R,KS,Yea
+60,H.R. 9747,Markwayne,Mullin,R,OK,Nay
+61,H.R. 9747,Lisa,Murkowski,R,AK,Yea
+62,H.R. 9747,Christopher,Murphy,D,CT,Yea
+63,H.R. 9747,Patty,Murray,D,WA,Yea
+64,H.R. 9747,Jon,Ossoff,D,GA,Yea
+65,H.R. 9747,Alex,Padilla,D,CA,Yea
+66,H.R. 9747,Rand,Paul,R,KY,Nay
+67,H.R. 9747,Gary,Peters,D,MI,Yea
+68,H.R. 9747,John,Reed,D,RI,Yea
+69,H.R. 9747,Pete,Ricketts,R,NE,Nay
+70,H.R. 9747,James ,Risch,R,ID,Nay
+71,H.R. 9747,Mitt,Romney,R,UT,Yea
+72,H.R. 9747,Jacklyn,Rosen,D,NV,Yea
+73,H.R. 9747,Mike,Rounds,R,SD,Yea
+74,H.R. 9747,Marco,Rubio,R,FL,Yea
+75,H.R. 9747,Bernard,Sanders,I,VT,Yea
+76,H.R. 9747,Brian,Schatz,D,HI,Yea
+77,H.R. 9747,Eric ,Schmitt,R,MO,Nay
+78,H.R. 9747,Charles,Schumer,D,NY,Yea
+79,H.R. 9747,Rick,Scott,R,FL,Not Voting
+80,H.R. 9747,Tim,Scott,R,SC,Nay
+81,H.R. 9747,Jeanne,Shaheen,D,NH,Yea
+82,H.R. 9747,Kyrsten,Sinema,I,AZ,Yea
+83,H.R. 9747,Tina,Smith,D,MN,Yea
+84,H.R. 9747,Debbie,Stabenow,D,MI,Yea
+85,H.R. 9747,Dan,Sullivan,R,AK,Yea
+86,H.R. 9747,Jon,Tester,D,MT,Yea
+87,H.R. 9747,John,Thune,R,SD,Yea
+88,H.R. 9747,Thomas,Tillis,R,NC,Yea
+89,H.R. 9747,Tommy,Tuberville,R,AL,Nay
+90,H.R. 9747,Chris,Van Hollen,D,MD,Yea
+91,H.R. 9747,J.,Vance,R,OH,Not Voting
+92,H.R. 9747,Mark,Warner,D,VA,Yea
+93,H.R. 9747,Raphael,Warnock,D,GA,Yea
+94,H.R. 9747,Elizabeth,Warren,D,MA,Yea
+95,H.R. 9747,Peter,Welch,D,VT,Yea
+96,H.R. 9747,Sheldon,Whitehouse,D,RI,Yea
+97,H.R. 9747,Roger,Wicker,R,MS,Yea
+98,H.R. 9747,Ron,Wyden,D,OR,Yea
+99,H.R. 9747,Todd,Young,R,IN,Yea
+100,,Tammy,Baldwin,D,WI,Nay
+101,,John,Barrasso,R,WY,Yea
+102,,Michael,Bennet,D,CO,Nay
+103,,Marsha,Blackburn,R,TN,Yea
+104,,Richard,Blumenthal,D,CT,Nay
+105,,Cory,Booker,D,NJ,Nay
+106,,John,Boozman,R,AR,Yea
+107,,Mike,Braun,R,IN,Yea
+108,,Katie,Britt,R,AL,Yea
+109,,Sherrod ,Brown,D,OH,Yea
+110,,Ted,Budd,R,NC,Yea
+111,,Laphonza,Butler,D,CA,Nay
+112,,Maria,Cantwell,D,WA,Nay
+113,,Shelley,Capito,R,WV,Yea
+114,,Ben,Cardin,D,MD,Nay
+115,,Thomas,Carper,D,DE,Not Voting
+116,,Bob,Casey,D,PA,Nay
+117,,Bill,Cassidy,R,LA,Yea
+118,,Susan,Collins,R,ME,Yea
+119,,Christopher,Coons,D,DE,Nay
+120,,John,Cornyn,R,TX,Yea
+121,,Catherine,Cortez Masto,D,NV,Nay
+122,,Tom,Cotton,R,AR,Yea
+123,,Kevin,Cramer,R,ND,Yea
+124,,Mike,Crapo,R,ID,Yea
+125,,Ted,Cruz,R,TX,Yea
+126,,Steve,Daines,R,MT,Yea
+127,,Tammy,Duckworth,D,IL,Nay
+128,,Richard,Durbin,D,IL,Nay
+129,,Joni,Ernst,R,IA,Yea
+130,,John,Fetterman,D,PA,Nay
+131,,Deb,Fischer,R,NE,Yea
+132,,Kirsten,Gillibrand,D,NY,Nay
+133,,Lindsey,Graham,R,SC,Yea
+134,,Chuck,Grassley,R,IA,Yea
+135,,Bill,Hagerty,R,TN,Yea
+136,,Maggie,Hassan,D,NH,Nay
+137,,Josh,Hawley,R,MO,Yea
+138,,Martin,Heinrich,D,NM,Nay
+139,,George,Helmy,D,NJ,Nay
+140,,John,Hickenlooper,D,CO,Nay
+141,,Mazie,Hirono,D,HI,Nay
+142,,John,Hoeven,R,ND,Yea
+143,,Cindy,Hyde-Smith,R,MS,Yea
+144,,Ron,Johnson,R,WI,Yea
+145,,Timothy,Kaine,D,VA,Nay
+146,,Mark,Kelly,D,AZ,Nay
+147,,John,Kennedy,R,LA,Yea
+148,,Angus,King,I,ME,Nay
+149,,Amy,Klobuchar,D,MN,Nay
+150,,James,Lankford,R,OK,Yea
+151,,Mike,Lee,R,UT,Yea
+152,,Ben,Lujan,D,NM,Nay
+153,,Cynthia,Lummis,R,WY,Yea
+154,,Joseph,Manchin,I,WV,Nay
+155,,Edward,Markey,D,MA,Nay
+156,,Roger,Marshall,R,KS,Not Voting
+157,,Mitch,McConnell,R,KY,Yea
+158,,Jeff,Merkley,D,OR,Nay
+159,,Jerry,Moran,R,KS,Yea
+160,,Markwayne,Mullin,R,OK,Yea
+161,,Lisa,Murkowski,R,AK,Yea
+162,,Christopher,Murphy,D,CT,Nay
+163,,Patty,Murray,D,WA,Nay
+164,,Jon,Ossoff,D,GA,Nay
+165,,Alex,Padilla,D,CA,Nay
+166,,Rand,Paul,R,KY,Yea
+167,,Gary,Peters,D,MI,Nay
+168,,John,Reed,D,RI,Nay
+169,,Pete,Ricketts,R,NE,Yea
+170,,James ,Risch,R,ID,Yea
+171,,Mitt,Romney,R,UT,Yea
+172,,Jacklyn,Rosen,D,NV,Nay
+173,,Mike,Rounds,R,SD,Not Voting
+174,,Marco,Rubio,R,FL,Yea
+175,,Bernard,Sanders,I,VT,Nay
+176,,Brian,Schatz,D,HI,Nay
+177,,Eric ,Schmitt,R,MO,Yea
+178,,Charles,Schumer,D,NY,Nay
+179,,Rick,Scott,R,FL,Yea
+180,,Tim,Scott,R,SC,Yea
+181,,Jeanne,Shaheen,D,NH,Nay
+182,,Kyrsten,Sinema,I,AZ,Nay
+183,,Tina,Smith,D,MN,Nay
+184,,Debbie,Stabenow,D,MI,Nay
+185,,Dan,Sullivan,R,AK,Yea
+186,,Jon,Tester,D,MT,Yea
+187,,John,Thune,R,SD,Yea
+188,,Thomas,Tillis,R,NC,Not Voting
+189,,Tommy,Tuberville,R,AL,Yea
+190,,Chris,Van Hollen,D,MD,Nay
+191,,J.,Vance,R,OH,Not Voting
+192,,Mark,Warner,D,VA,Nay
+193,,Raphael,Warnock,D,GA,Nay
+194,,Elizabeth,Warren,D,MA,Nay
+195,,Peter,Welch,D,VT,Nay
+196,,Sheldon,Whitehouse,D,RI,Nay
+197,,Roger,Wicker,R,MS,Yea
+198,,Ron,Wyden,D,OR,Not Voting
+199,,Todd,Young,R,IN,Yea
+200,H.R. 7024,Tammy,Baldwin,D,WI,Yea
+201,H.R. 7024,John,Barrasso,R,WY,Nay
+202,H.R. 7024,Michael,Bennet,D,CO,Yea
+203,H.R. 7024,Marsha,Blackburn,R,TN,Not Voting
+204,H.R. 7024,Richard,Blumenthal,D,CT,Yea
+205,H.R. 7024,Cory,Booker,D,NJ,Yea
+206,H.R. 7024,John,Boozman,R,AR,Nay
+207,H.R. 7024,Mike,Braun,R,IN,Nay
+208,H.R. 7024,Katie,Britt,R,AL,Nay
+209,H.R. 7024,Sherrod ,Brown,D,OH,Yea
+210,H.R. 7024,Ted,Budd,R,NC,Nay
+211,H.R. 7024,Laphonza,Butler,D,CA,Yea
+212,H.R. 7024,Maria,Cantwell,D,WA,Yea
+213,H.R. 7024,Shelley,Capito,R,WV,Nay
+214,H.R. 7024,Ben,Cardin,D,MD,Yea
+215,H.R. 7024,Thomas,Carper,D,DE,Yea
+216,H.R. 7024,Bob,Casey,D,PA,Yea
+217,H.R. 7024,Bill,Cassidy,R,LA,Nay
+218,H.R. 7024,Susan,Collins,R,ME,Nay
+219,H.R. 7024,Christopher,Coons,D,DE,Yea
+220,H.R. 7024,John,Cornyn,R,TX,Nay
+221,H.R. 7024,Catherine,Cortez Masto,D,NV,Yea
+222,H.R. 7024,Tom,Cotton,R,AR,Nay
+223,H.R. 7024,Kevin,Cramer,R,ND,Nay
+224,H.R. 7024,Mike,Crapo,R,ID,Nay
+225,H.R. 7024,Ted,Cruz,R,TX,Nay
+226,H.R. 7024,Steve,Daines,R,MT,Nay
+227,H.R. 7024,Tammy,Duckworth,D,IL,Yea
+228,H.R. 7024,Richard,Durbin,D,IL,Yea
+229,H.R. 7024,Joni,Ernst,R,IA,Nay
+230,H.R. 7024,John,Fetterman,D,PA,Not Voting
+231,H.R. 7024,Deb,Fischer,R,NE,Nay
+232,H.R. 7024,Kirsten,Gillibrand,D,NY,Yea
+233,H.R. 7024,Lindsey,Graham,R,SC,Nay
+234,H.R. 7024,Chuck,Grassley,R,IA,Nay
+235,H.R. 7024,Bill,Hagerty,R,TN,Nay
+236,H.R. 7024,Maggie,Hassan,D,NH,Yea
+237,H.R. 7024,Josh,Hawley,R,MO,Yea
+238,H.R. 7024,Martin,Heinrich,D,NM,Yea
+239,H.R. 7024,John,Hickenlooper,D,CO,Yea
+240,H.R. 7024,Mazie,Hirono,D,HI,Yea
+241,H.R. 7024,John,Hoeven,R,ND,Not Voting
+242,H.R. 7024,Cindy,Hyde-Smith,R,MS,Nay
+243,H.R. 7024,Ron,Johnson,R,WI,Nay
+244,H.R. 7024,Timothy,Kaine,D,VA,Yea
+245,H.R. 7024,Mark,Kelly,D,AZ,Yea
+246,H.R. 7024,John,Kennedy,R,LA,Nay
+247,H.R. 7024,Angus,King,I,ME,Yea
+248,H.R. 7024,Amy,Klobuchar,D,MN,Yea
+249,H.R. 7024,James,Lankford,R,OK,Nay
+250,H.R. 7024,Mike,Lee,R,UT,Nay
+251,H.R. 7024,Ben,Lujan,D,NM,Yea
+252,H.R. 7024,Cynthia,Lummis,R,WY,Nay
+253,H.R. 7024,Joseph,Manchin,I,WV,Nay
+254,H.R. 7024,Edward,Markey,D,MA,Yea
+255,H.R. 7024,Roger,Marshall,R,KS,Nay
+256,H.R. 7024,Mitch,McConnell,R,KY,Nay
+257,H.R. 7024,Robert,Menendez,D,NJ,Not Voting
+258,H.R. 7024,Jeff,Merkley,D,OR,Yea
+259,H.R. 7024,Jerry,Moran,R,KS,Nay
+260,H.R. 7024,Markwayne,Mullin,R,OK,Yea
+261,H.R. 7024,Lisa,Murkowski,R,AK,Nay
+262,H.R. 7024,Christopher,Murphy,D,CT,Yea
+263,H.R. 7024,Patty,Murray,D,WA,Yea
+264,H.R. 7024,Jon,Ossoff,D,GA,Yea
+265,H.R. 7024,Alex,Padilla,D,CA,Yea
+266,H.R. 7024,Rand,Paul,R,KY,Nay
+267,H.R. 7024,Gary,Peters,D,MI,Yea
+268,H.R. 7024,John,Reed,D,RI,Yea
+269,H.R. 7024,Pete,Ricketts,R,NE,Nay
+270,H.R. 7024,James ,Risch,R,ID,Nay
+271,H.R. 7024,Mitt,Romney,R,UT,Not Voting
+272,H.R. 7024,Jacklyn,Rosen,D,NV,Yea
+273,H.R. 7024,Mike,Rounds,R,SD,Nay
+274,H.R. 7024,Marco,Rubio,R,FL,Nay
+275,H.R. 7024,Bernard,Sanders,I,VT,Nay
+276,H.R. 7024,Brian,Schatz,D,HI,Yea
+277,H.R. 7024,Eric ,Schmitt,R,MO,Nay
+278,H.R. 7024,Charles,Schumer,D,NY,Nay
+279,H.R. 7024,Rick,Scott,R,FL,Yea
+280,H.R. 7024,Tim,Scott,R,SC,Not Voting
+281,H.R. 7024,Jeanne,Shaheen,D,NH,Yea
+282,H.R. 7024,Kyrsten,Sinema,I,AZ,Yea
+283,H.R. 7024,Tina,Smith,D,MN,Yea
+284,H.R. 7024,Debbie,Stabenow,D,MI,Yea
+285,H.R. 7024,Dan,Sullivan,R,AK,Nay
+286,H.R. 7024,Jon,Tester,D,MT,Yea
+287,H.R. 7024,John,Thune,R,SD,Nay
+288,H.R. 7024,Thomas,Tillis,R,NC,Nay
+289,H.R. 7024,Tommy,Tuberville,R,AL,Nay
+290,H.R. 7024,Chris,Van Hollen,D,MD,Yea
+291,H.R. 7024,J.,Vance,R,OH,Not Voting
+292,H.R. 7024,Mark,Warner,D,VA,Not Voting
+293,H.R. 7024,Raphael,Warnock,D,GA,Yea
+294,H.R. 7024,Elizabeth,Warren,D,MA,Yea
+295,H.R. 7024,Peter,Welch,D,VT,Yea
+296,H.R. 7024,Sheldon,Whitehouse,D,RI,Yea
+297,H.R. 7024,Roger,Wicker,R,MS,Nay
+298,H.R. 7024,Ron,Wyden,D,OR,Yea
+299,H.R. 7024,Todd,Young,R,IN,Nay
+300,H.R. 3935,Tammy,Baldwin,D,WI,Yea
+301,H.R. 3935,John,Barrasso,R,WY,Not Voting
+302,H.R. 3935,Michael,Bennet,D,CO,Yea
+303,H.R. 3935,Marsha,Blackburn,R,TN,Yea
+304,H.R. 3935,Richard,Blumenthal,D,CT,Yea
+305,H.R. 3935,Cory,Booker,D,NJ,Yea
+306,H.R. 3935,John,Boozman,R,AR,Yea
+307,H.R. 3935,Mike,Braun,R,IN,Not Voting
+308,H.R. 3935,Katie,Britt,R,AL,Not Voting
+309,H.R. 3935,Sherrod ,Brown,D,OH,Yea
+310,H.R. 3935,Ted,Budd,R,NC,Yea
+311,H.R. 3935,Laphonza,Butler,D,CA,Yea
+312,H.R. 3935,Maria,Cantwell,D,WA,Yea
+313,H.R. 3935,Shelley,Capito,R,WV,Yea
+314,H.R. 3935,Ben,Cardin,D,MD,Nay
+315,H.R. 3935,Thomas,Carper,D,DE,Yea
+316,H.R. 3935,Bob,Casey,D,PA,Yea
+317,H.R. 3935,Bill,Cassidy,R,LA,Yea
+318,H.R. 3935,Susan,Collins,R,ME,Yea
+319,H.R. 3935,Christopher,Coons,D,DE,Yea
+320,H.R. 3935,John,Cornyn,R,TX,Yea
+321,H.R. 3935,Catherine,Cortez Masto,D,NV,Yea
+322,H.R. 3935,Tom,Cotton,R,AR,Yea
+323,H.R. 3935,Kevin,Cramer,R,ND,Yea
+324,H.R. 3935,Mike,Crapo,R,ID,Yea
+325,H.R. 3935,Ted,Cruz,R,TX,Yea
+326,H.R. 3935,Steve,Daines,R,MT,Yea
+327,H.R. 3935,Tammy,Duckworth,D,IL,Yea
+328,H.R. 3935,Richard,Durbin,D,IL,Yea
+329,H.R. 3935,Joni,Ernst,R,IA,Yea
+330,H.R. 3935,John,Fetterman,D,PA,Yea
+331,H.R. 3935,Deb,Fischer,R,NE,Yea
+332,H.R. 3935,Kirsten,Gillibrand,D,NY,Yea
+333,H.R. 3935,Lindsey,Graham,R,SC,Yea
+334,H.R. 3935,Chuck,Grassley,R,IA,Yea
+335,H.R. 3935,Bill,Hagerty,R,TN,Not Voting
+336,H.R. 3935,Maggie,Hassan,D,NH,Yea
+337,H.R. 3935,Josh,Hawley,R,MO,Yea
+338,H.R. 3935,Martin,Heinrich,D,NM,Yea
+339,H.R. 3935,John,Hickenlooper,D,CO,Yea
+340,H.R. 3935,Mazie,Hirono,D,HI,Yea
+341,H.R. 3935,John,Hoeven,R,ND,Yea
+342,H.R. 3935,Cindy,Hyde-Smith,R,MS,Yea
+343,H.R. 3935,Ron,Johnson,R,WI,Yea
+344,H.R. 3935,Timothy,Kaine,D,VA,Nay
+345,H.R. 3935,Mark,Kelly,D,AZ,Yea
+346,H.R. 3935,John,Kennedy,R,LA,Yea
+347,H.R. 3935,Angus,King,I,ME,Yea
+348,H.R. 3935,Amy,Klobuchar,D,MN,Yea
+349,H.R. 3935,James,Lankford,R,OK,Yea
+350,H.R. 3935,Mike,Lee,R,UT,Yea
+351,H.R. 3935,Ben,Lujan,D,NM,Yea
+352,H.R. 3935,Cynthia,Lummis,R,WY,Yea
+353,H.R. 3935,Joseph,Manchin,D,WV,Not Voting
+354,H.R. 3935,Edward,Markey,D,MA,Yea
+355,H.R. 3935,Roger,Marshall,R,KS,Yea
+356,H.R. 3935,Mitch,McConnell,R,KY,Yea
+357,H.R. 3935,Robert,Menendez,D,NJ,Not Voting
+358,H.R. 3935,Jeff,Merkley,D,OR,Yea
+359,H.R. 3935,Jerry,Moran,R,KS,Yea
+360,H.R. 3935,Markwayne,Mullin,R,OK,Yea
+361,H.R. 3935,Lisa,Murkowski,R,AK,Yea
+362,H.R. 3935,Christopher,Murphy,D,CT,Yea
+363,H.R. 3935,Patty,Murray,D,WA,Yea
+364,H.R. 3935,Jon,Ossoff,D,GA,Yea
+365,H.R. 3935,Alex,Padilla,D,CA,Yea
+366,H.R. 3935,Rand,Paul,R,KY,Yea
+367,H.R. 3935,Gary,Peters,D,MI,Yea
+368,H.R. 3935,John,Reed,D,RI,Yea
+369,H.R. 3935,Pete,Ricketts,R,NE,Yea
+370,H.R. 3935,James ,Risch,R,ID,Yea
+371,H.R. 3935,Mitt,Romney,R,UT,Not Voting
+372,H.R. 3935,Jacklyn,Rosen,D,NV,Yea
+373,H.R. 3935,Mike,Rounds,R,SD,Yea
+374,H.R. 3935,Marco,Rubio,R,FL,Yea
+375,H.R. 3935,Bernard,Sanders,I,VT,Yea
+376,H.R. 3935,Brian,Schatz,D,HI,Yea
+377,H.R. 3935,Eric ,Schmitt,R,MO,Yea
+378,H.R. 3935,Charles,Schumer,D,NY,Yea
+379,H.R. 3935,Rick,Scott,R,FL,Yea
+380,H.R. 3935,Tim,Scott,R,SC,Yea
+381,H.R. 3935,Jeanne,Shaheen,D,NH,Yea
+382,H.R. 3935,Kyrsten,Sinema,I,AZ,Not Voting
+383,H.R. 3935,Tina,Smith,D,MN,Yea
+384,H.R. 3935,Debbie,Stabenow,D,MI,Yea
+385,H.R. 3935,Dan,Sullivan,R,AK,Yea
+386,H.R. 3935,Jon,Tester,D,MT,Yea
+387,H.R. 3935,John,Thune,R,SD,Yea
+388,H.R. 3935,Thomas,Tillis,R,NC,Yea
+389,H.R. 3935,Tommy,Tuberville,R,AL,Yea
+390,H.R. 3935,Chris,Van Hollen,D,MD,Nay
+391,H.R. 3935,J.,Vance,R,OH,Yea
+392,H.R. 3935,Mark,Warner,D,VA,Nay
+393,H.R. 3935,Raphael,Warnock,D,GA,Yea
+394,H.R. 3935,Elizabeth,Warren,D,MA,Yea
+395,H.R. 3935,Peter,Welch,D,VT,Yea
+396,H.R. 3935,Sheldon,Whitehouse,D,RI,Yea
+397,H.R. 3935,Roger,Wicker,R,MS,Yea
+398,H.R. 3935,Ron,Wyden,D,OR,Yea
+399,H.R. 3935,Todd,Young,R,IN,Yea
+400,H.R. 3935,Tammy,Baldwin,D,WI,Yea
+401,H.R. 3935,John,Barrasso,R,WY,Yea
+402,H.R. 3935,Michael,Bennet,D,CO,Yea
+403,H.R. 3935,Marsha,Blackburn,R,TN,Yea
+404,H.R. 3935,Richard,Blumenthal,D,CT,Yea
+405,H.R. 3935,Cory,Booker,D,NJ,Yea
+406,H.R. 3935,John,Boozman,R,AR,Yea
+407,H.R. 3935,Mike,Braun,R,IN,Not Voting
+408,H.R. 3935,Katie,Britt,R,AL,Yea
+409,H.R. 3935,Sherrod ,Brown,D,OH,Yea
+410,H.R. 3935,Ted,Budd,R,NC,Yea
+411,H.R. 3935,Laphonza,Butler,D,CA,Yea
+412,H.R. 3935,Maria,Cantwell,D,WA,Yea
+413,H.R. 3935,Shelley,Capito,R,WV,Yea
+414,H.R. 3935,Ben,Cardin,D,MD,Nay
+415,H.R. 3935,Thomas,Carper,D,DE,Yea
+416,H.R. 3935,Bob,Casey,D,PA,Yea
+417,H.R. 3935,Bill,Cassidy,R,LA,Nay
+418,H.R. 3935,Susan,Collins,R,ME,Yea
+419,H.R. 3935,Christopher,Coons,D,DE,Yea
+420,H.R. 3935,John,Cornyn,R,TX,Yea
+421,H.R. 3935,Catherine,Cortez Masto,D,NV,Yea
+422,H.R. 3935,Tom,Cotton,R,AR,Yea
+423,H.R. 3935,Kevin,Cramer,R,ND,Yea
+424,H.R. 3935,Mike,Crapo,R,ID,Yea
+425,H.R. 3935,Ted,Cruz,R,TX,Yea
+426,H.R. 3935,Steve,Daines,R,MT,Nay
+427,H.R. 3935,Tammy,Duckworth,D,IL,Yea
+428,H.R. 3935,Richard,Durbin,D,IL,Yea
+429,H.R. 3935,Joni,Ernst,R,IA,Nay
+430,H.R. 3935,John,Fetterman,D,PA,Yea
+431,H.R. 3935,Deb,Fischer,R,NE,Yea
+432,H.R. 3935,Kirsten,Gillibrand,D,NY,Yea
+433,H.R. 3935,Lindsey,Graham,R,SC,Yea
+434,H.R. 3935,Chuck,Grassley,R,IA,Yea
+435,H.R. 3935,Bill,Hagerty,R,TN,Yea
+436,H.R. 3935,Maggie,Hassan,D,NH,Yea
+437,H.R. 3935,Josh,Hawley,R,MO,Nay
+438,H.R. 3935,Martin,Heinrich,D,NM,Yea
+439,H.R. 3935,John,Hickenlooper,D,CO,Yea
+440,H.R. 3935,Mazie,Hirono,D,HI,Yea
+441,H.R. 3935,John,Hoeven,R,ND,Yea
+442,H.R. 3935,Cindy,Hyde-Smith,R,MS,Yea
+443,H.R. 3935,Ron,Johnson,R,WI,Nay
+444,H.R. 3935,Timothy,Kaine,D,VA,Nay
+445,H.R. 3935,Mark,Kelly,D,AZ,Yea
+446,H.R. 3935,John,Kennedy,R,LA,Yea
+447,H.R. 3935,Angus,King,I,ME,Yea
+448,H.R. 3935,Amy,Klobuchar,D,MN,Yea
+449,H.R. 3935,James,Lankford,R,OK,Yea
+450,H.R. 3935,Mike,Lee,R,UT,Nay
+451,H.R. 3935,Ben,Lujan,D,NM,Yea
+452,H.R. 3935,Cynthia,Lummis,R,WY,Yea
+453,H.R. 3935,Joseph,Manchin,D,WV,Yea
+454,H.R. 3935,Edward,Markey,D,MA,Yea
+455,H.R. 3935,Roger,Marshall,R,KS,Yea
+456,H.R. 3935,Mitch,McConnell,R,KY,Yea
+457,H.R. 3935,Robert,Menendez,D,NJ,Yea
+458,H.R. 3935,Jeff,Merkley,D,OR,Nay
+459,H.R. 3935,Jerry,Moran,R,KS,Yea
+460,H.R. 3935,Markwayne,Mullin,R,OK,Yea
+461,H.R. 3935,Lisa,Murkowski,R,AK,Yea
+462,H.R. 3935,Christopher,Murphy,D,CT,Yea
+463,H.R. 3935,Patty,Murray,D,WA,Yea
+464,H.R. 3935,Jon,Ossoff,D,GA,Yea
+465,H.R. 3935,Alex,Padilla,D,CA,Yea
+466,H.R. 3935,Rand,Paul,R,KY,Yea
+467,H.R. 3935,Gary,Peters,D,MI,Yea
+468,H.R. 3935,John,Reed,D,RI,Yea
+469,H.R. 3935,Pete,Ricketts,R,NE,Yea
+470,H.R. 3935,James ,Risch,R,ID,Yea
+471,H.R. 3935,Mitt,Romney,R,UT,Yea
+472,H.R. 3935,Jacklyn,Rosen,D,NV,Yea
+473,H.R. 3935,Mike,Rounds,R,SD,Yea
+474,H.R. 3935,Marco,Rubio,R,FL,Yea
+475,H.R. 3935,Bernard,Sanders,I,VT,Yea
+476,H.R. 3935,Brian,Schatz,D,HI,Yea
+477,H.R. 3935,Eric ,Schmitt,R,MO,Nay
+478,H.R. 3935,Charles,Schumer,D,NY,Yea
+479,H.R. 3935,Rick,Scott,R,FL,Not Voting
+480,H.R. 3935,Tim,Scott,R,SC,Yea
+481,H.R. 3935,Jeanne,Shaheen,D,NH,Yea
+482,H.R. 3935,Kyrsten,Sinema,I,AZ,Not Voting
+483,H.R. 3935,Tina,Smith,D,MN,Yea
+484,H.R. 3935,Debbie,Stabenow,D,MI,Yea
+485,H.R. 3935,Dan,Sullivan,R,AK,Yea
+486,H.R. 3935,Jon,Tester,D,MT,Yea
+487,H.R. 3935,John,Thune,R,SD,Yea
+488,H.R. 3935,Thomas,Tillis,R,NC,Yea
+489,H.R. 3935,Tommy,Tuberville,R,AL,Yea
+490,H.R. 3935,Chris,Van Hollen,D,MD,Nay
+491,H.R. 3935,J.,Vance,R,OH,Nay
+492,H.R. 3935,Mark,Warner,D,VA,Nay
+493,H.R. 3935,Raphael,Warnock,D,GA,Yea
+494,H.R. 3935,Elizabeth,Warren,D,MA,Yea
+495,H.R. 3935,Peter,Welch,D,VT,Yea
+496,H.R. 3935,Sheldon,Whitehouse,D,RI,Yea
+497,H.R. 3935,Roger,Wicker,R,MS,Yea
+498,H.R. 3935,Ron,Wyden,D,OR,Yea
+499,H.R. 3935,Todd,Young,R,IN,Yea
+500,H.R. 3935,Tammy,Baldwin,D,WI,Nay
+501,H.R. 3935,John,Barrasso,R,WY,Nay
+502,H.R. 3935,Michael,Bennet,D,CO,Nay
+503,H.R. 3935,Marsha,Blackburn,R,TN,Nay
+504,H.R. 3935,Richard,Blumenthal,D,CT,Nay
+505,H.R. 3935,Cory,Booker,D,NJ,Nay
+506,H.R. 3935,John,Boozman,R,AR,Nay
+507,H.R. 3935,Mike,Braun,R,IN,Not Voting
+508,H.R. 3935,Katie,Britt,R,AL,Nay
+509,H.R. 3935,Sherrod ,Brown,D,OH,Nay
+510,H.R. 3935,Ted,Budd,R,NC,Nay
+511,H.R. 3935,Laphonza,Butler,D,CA,Nay
+512,H.R. 3935,Maria,Cantwell,D,WA,Nay
+513,H.R. 3935,Shelley,Capito,R,WV,Nay
+514,H.R. 3935,Ben,Cardin,D,MD,Nay
+515,H.R. 3935,Thomas,Carper,D,DE,Nay
+516,H.R. 3935,Bob,Casey,D,PA,Nay
+517,H.R. 3935,Bill,Cassidy,R,LA,Yea
+518,H.R. 3935,Susan,Collins,R,ME,Nay
+519,H.R. 3935,Christopher,Coons,D,DE,Nay
+520,H.R. 3935,John,Cornyn,R,TX,Yea
+521,H.R. 3935,Catherine,Cortez Masto,D,NV,Nay
+522,H.R. 3935,Tom,Cotton,R,AR,Nay
+523,H.R. 3935,Kevin,Cramer,R,ND,Nay
+524,H.R. 3935,Mike,Crapo,R,ID,Nay
+525,H.R. 3935,Ted,Cruz,R,TX,Nay
+526,H.R. 3935,Steve,Daines,R,MT,Nay
+527,H.R. 3935,Tammy,Duckworth,D,IL,Nay
+528,H.R. 3935,Richard,Durbin,D,IL,Nay
+529,H.R. 3935,Joni,Ernst,R,IA,Yea
+530,H.R. 3935,John,Fetterman,D,PA,Nay
+531,H.R. 3935,Deb,Fischer,R,NE,Nay
+532,H.R. 3935,Kirsten,Gillibrand,D,NY,Nay
+533,H.R. 3935,Lindsey,Graham,R,SC,Nay
+534,H.R. 3935,Chuck,Grassley,R,IA,Nay
+535,H.R. 3935,Bill,Hagerty,R,TN,Nay
+536,H.R. 3935,Maggie,Hassan,D,NH,Nay
+537,H.R. 3935,Josh,Hawley,R,MO,Yea
+538,H.R. 3935,Martin,Heinrich,D,NM,Nay
+539,H.R. 3935,John,Hickenlooper,D,CO,Nay
+540,H.R. 3935,Mazie,Hirono,D,HI,Nay
+541,H.R. 3935,John,Hoeven,R,ND,Nay
+542,H.R. 3935,Cindy,Hyde-Smith,R,MS,Nay
+543,H.R. 3935,Ron,Johnson,R,WI,Yea
+544,H.R. 3935,Timothy,Kaine,D,VA,Nay
+545,H.R. 3935,Mark,Kelly,D,AZ,Nay
+546,H.R. 3935,John,Kennedy,R,LA,Yea
+547,H.R. 3935,Angus,King,I,ME,Nay
+548,H.R. 3935,Amy,Klobuchar,D,MN,Nay
+549,H.R. 3935,James,Lankford,R,OK,Nay
+550,H.R. 3935,Mike,Lee,R,UT,Yea
+551,H.R. 3935,Ben,Lujan,D,NM,Nay
+552,H.R. 3935,Cynthia,Lummis,R,WY,Nay
+553,H.R. 3935,Joseph,Manchin,D,WV,Nay
+554,H.R. 3935,Edward,Markey,D,MA,Nay
+555,H.R. 3935,Roger,Marshall,R,KS,Yea
+556,H.R. 3935,Mitch,McConnell,R,KY,Nay
+557,H.R. 3935,Robert,Menendez,D,NJ,Nay
+558,H.R. 3935,Jeff,Merkley,D,OR,Nay
+559,H.R. 3935,Jerry,Moran,R,KS,Nay
+560,H.R. 3935,Markwayne,Mullin,R,OK,Nay
+561,H.R. 3935,Lisa,Murkowski,R,AK,Nay
+562,H.R. 3935,Christopher,Murphy,D,CT,Nay
+563,H.R. 3935,Patty,Murray,D,WA,Nay
+564,H.R. 3935,Jon,Ossoff,D,GA,Nay
+565,H.R. 3935,Alex,Padilla,D,CA,Nay
+566,H.R. 3935,Rand,Paul,R,KY,Nay
+567,H.R. 3935,Gary,Peters,D,MI,Nay
+568,H.R. 3935,John,Reed,D,RI,Nay
+569,H.R. 3935,Pete,Ricketts,R,NE,Nay
+570,H.R. 3935,James ,Risch,R,ID,Nay
+571,H.R. 3935,Mitt,Romney,R,UT,Nay
+572,H.R. 3935,Jacklyn,Rosen,D,NV,Nay
+573,H.R. 3935,Mike,Rounds,R,SD,Nay
+574,H.R. 3935,Marco,Rubio,R,FL,Nay
+575,H.R. 3935,Bernard,Sanders,I,VT,Nay
+576,H.R. 3935,Brian,Schatz,D,HI,Nay
+577,H.R. 3935,Eric ,Schmitt,R,MO,Yea
+578,H.R. 3935,Charles,Schumer,D,NY,Nay
+579,H.R. 3935,Rick,Scott,R,FL,Yea
+580,H.R. 3935,Tim,Scott,R,SC,Nay
+581,H.R. 3935,Jeanne,Shaheen,D,NH,Nay
+582,H.R. 3935,Kyrsten,Sinema,I,AZ,Not Voting
+583,H.R. 3935,Tina,Smith,D,MN,Nay
+584,H.R. 3935,Debbie,Stabenow,D,MI,Nay
+585,H.R. 3935,Dan,Sullivan,R,AK,Yea
+586,H.R. 3935,Jon,Tester,D,MT,Nay
+587,H.R. 3935,John,Thune,R,SD,Nay
+588,H.R. 3935,Thomas,Tillis,R,NC,Nay
+589,H.R. 3935,Tommy,Tuberville,R,AL,Not Voting
+590,H.R. 3935,Chris,Van Hollen,D,MD,Nay
+591,H.R. 3935,J.,Vance,R,OH,Yea
+592,H.R. 3935,Mark,Warner,D,VA,Nay
+593,H.R. 3935,Raphael,Warnock,D,GA,Nay
+594,H.R. 3935,Elizabeth,Warren,D,MA,Nay
+595,H.R. 3935,Peter,Welch,D,VT,Nay
+596,H.R. 3935,Sheldon,Whitehouse,D,RI,Nay
+597,H.R. 3935,Roger,Wicker,R,MS,Nay
+598,H.R. 3935,Ron,Wyden,D,OR,Nay
+599,H.R. 3935,Todd,Young,R,IN,Nay
+600,H.R. 3935,Tammy,Baldwin,D,WI,Yea
+601,H.R. 3935,John,Barrasso,R,WY,Yea
+602,H.R. 3935,Michael,Bennet,D,CO,Yea
+603,H.R. 3935,Marsha,Blackburn,R,TN,Yea
+604,H.R. 3935,Richard,Blumenthal,D,CT,Yea
+605,H.R. 3935,Cory,Booker,D,NJ,Not Voting
+606,H.R. 3935,John,Boozman,R,AR,Yea
+607,H.R. 3935,Mike,Braun,R,IN,Yea
+608,H.R. 3935,Katie,Britt,R,AL,Yea
+609,H.R. 3935,Sherrod ,Brown,D,OH,Yea
+610,H.R. 3935,Ted,Budd,R,NC,Yea
+611,H.R. 3935,Laphonza,Butler,D,CA,Yea
+612,H.R. 3935,Maria,Cantwell,D,WA,Yea
+613,H.R. 3935,Shelley,Capito,R,WV,Yea
+614,H.R. 3935,Ben,Cardin,D,MD,Nay
+615,H.R. 3935,Thomas,Carper,D,DE,Yea
+616,H.R. 3935,Bob,Casey,D,PA,Yea
+617,H.R. 3935,Bill,Cassidy,R,LA,Nay
+618,H.R. 3935,Susan,Collins,R,ME,Yea
+619,H.R. 3935,Christopher,Coons,D,DE,Yea
+620,H.R. 3935,John,Cornyn,R,TX,Yea
+621,H.R. 3935,Catherine,Cortez Masto,D,NV,Yea
+622,H.R. 3935,Tom,Cotton,R,AR,Yea
+623,H.R. 3935,Kevin,Cramer,R,ND,Not Voting
+624,H.R. 3935,Mike,Crapo,R,ID,Yea
+625,H.R. 3935,Ted,Cruz,R,TX,Yea
+626,H.R. 3935,Steve,Daines,R,MT,Yea
+627,H.R. 3935,Tammy,Duckworth,D,IL,Yea
+628,H.R. 3935,Richard,Durbin,D,IL,Yea
+629,H.R. 3935,Joni,Ernst,R,IA,Yea
+630,H.R. 3935,John,Fetterman,D,PA,Yea
+631,H.R. 3935,Deb,Fischer,R,NE,Yea
+632,H.R. 3935,Kirsten,Gillibrand,D,NY,Yea
+633,H.R. 3935,Lindsey,Graham,R,SC,Yea
+634,H.R. 3935,Chuck,Grassley,R,IA,Yea
+635,H.R. 3935,Bill,Hagerty,R,TN,Yea
+636,H.R. 3935,Maggie,Hassan,D,NH,Yea
+637,H.R. 3935,Josh,Hawley,R,MO,Nay
+638,H.R. 3935,Martin,Heinrich,D,NM,Yea
+639,H.R. 3935,John,Hickenlooper,D,CO,Yea
+640,H.R. 3935,Mazie,Hirono,D,HI,Yea
+641,H.R. 3935,John,Hoeven,R,ND,Yea
+642,H.R. 3935,Cindy,Hyde-Smith,R,MS,Yea
+643,H.R. 3935,Ron,Johnson,R,WI,Not Voting
+644,H.R. 3935,Timothy,Kaine,D,VA,Nay
+645,H.R. 3935,Mark,Kelly,D,AZ,Not Voting
+646,H.R. 3935,John,Kennedy,R,LA,Nay
+647,H.R. 3935,Angus,King,I,ME,Yea
+648,H.R. 3935,Amy,Klobuchar,D,MN,Yea
+649,H.R. 3935,James,Lankford,R,OK,Yea
+650,H.R. 3935,Mike,Lee,R,UT,Nay
+651,H.R. 3935,Ben,Lujan,D,NM,Yea
+652,H.R. 3935,Cynthia,Lummis,R,WY,Yea
+653,H.R. 3935,Joseph,Manchin,D,WV,Yea
+654,H.R. 3935,Edward,Markey,D,MA,Yea
+655,H.R. 3935,Roger,Marshall,R,KS,Yea
+656,H.R. 3935,Mitch,McConnell,R,KY,Yea
+657,H.R. 3935,Robert,Menendez,D,NJ,Not Voting
+658,H.R. 3935,Jeff,Merkley,D,OR,Yea
+659,H.R. 3935,Jerry,Moran,R,KS,Yea
+660,H.R. 3935,Markwayne,Mullin,R,OK,Yea
+661,H.R. 3935,Lisa,Murkowski,R,AK,Yea
+662,H.R. 3935,Christopher,Murphy,D,CT,Yea
+663,H.R. 3935,Patty,Murray,D,WA,Yea
+664,H.R. 3935,Jon,Ossoff,D,GA,Yea
+665,H.R. 3935,Alex,Padilla,D,CA,Yea
+666,H.R. 3935,Rand,Paul,R,KY,Yea
+667,H.R. 3935,Gary,Peters,D,MI,Yea
+668,H.R. 3935,John,Reed,D,RI,Yea
+669,H.R. 3935,Pete,Ricketts,R,NE,Yea
+670,H.R. 3935,James ,Risch,R,ID,Yea
+671,H.R. 3935,Mitt,Romney,R,UT,Yea
+672,H.R. 3935,Jacklyn,Rosen,D,NV,Yea
+673,H.R. 3935,Mike,Rounds,R,SD,Yea
+674,H.R. 3935,Marco,Rubio,R,FL,Yea
+675,H.R. 3935,Bernard,Sanders,I,VT,Not Voting
+676,H.R. 3935,Brian,Schatz,D,HI,Yea
+677,H.R. 3935,Eric ,Schmitt,R,MO,Yea
+678,H.R. 3935,Charles,Schumer,D,NY,Yea
+679,H.R. 3935,Rick,Scott,R,FL,Yea
+680,H.R. 3935,Tim,Scott,R,SC,Not Voting
+681,H.R. 3935,Jeanne,Shaheen,D,NH,Yea
+682,H.R. 3935,Kyrsten,Sinema,I,AZ,Yea
+683,H.R. 3935,Tina,Smith,D,MN,Yea
+684,H.R. 3935,Debbie,Stabenow,D,MI,Yea
+685,H.R. 3935,Dan,Sullivan,R,AK,Not Voting
+686,H.R. 3935,Jon,Tester,D,MT,Yea
+687,H.R. 3935,John,Thune,R,SD,Yea
+688,H.R. 3935,Thomas,Tillis,R,NC,Yea
+689,H.R. 3935,Tommy,Tuberville,R,AL,Yea
+690,H.R. 3935,Chris,Van Hollen,D,MD,Nay
+691,H.R. 3935,J.,Vance,R,OH,Nay
+692,H.R. 3935,Mark,Warner,D,VA,Nay
+693,H.R. 3935,Raphael,Warnock,D,GA,Yea
+694,H.R. 3935,Elizabeth,Warren,D,MA,Nay
+695,H.R. 3935,Peter,Welch,D,VT,Yea
+696,H.R. 3935,Sheldon,Whitehouse,D,RI,Yea
+697,H.R. 3935,Roger,Wicker,R,MS,Not Voting
+698,H.R. 3935,Ron,Wyden,D,OR,Yea
+699,H.R. 3935,Todd,Young,R,IN,Yea
+700,H.R. 3935,Tammy,Baldwin,D,WI,Yea
+701,H.R. 3935,John,Barrasso,R,WY,Yea
+702,H.R. 3935,Michael,Bennet,D,CO,Yea
+703,H.R. 3935,Marsha,Blackburn,R,TN,Yea
+704,H.R. 3935,Richard,Blumenthal,D,CT,Yea
+705,H.R. 3935,Cory,Booker,D,NJ,Yea
+706,H.R. 3935,John,Boozman,R,AR,Yea
+707,H.R. 3935,Mike,Braun,R,IN,Yea
+708,H.R. 3935,Katie,Britt,R,AL,Yea
+709,H.R. 3935,Sherrod ,Brown,D,OH,Yea
+710,H.R. 3935,Ted,Budd,R,NC,Yea
+711,H.R. 3935,Laphonza,Butler,D,CA,Yea
+712,H.R. 3935,Maria,Cantwell,D,WA,Yea
+713,H.R. 3935,Shelley,Capito,R,WV,Yea
+714,H.R. 3935,Ben,Cardin,D,MD,Nay
+715,H.R. 3935,Thomas,Carper,D,DE,Yea
+716,H.R. 3935,Bob,Casey,D,PA,Yea
+717,H.R. 3935,Bill,Cassidy,R,LA,Yea
+718,H.R. 3935,Susan,Collins,R,ME,Yea
+719,H.R. 3935,Christopher,Coons,D,DE,Yea
+720,H.R. 3935,John,Cornyn,R,TX,Yea
+721,H.R. 3935,Catherine,Cortez Masto,D,NV,Yea
+722,H.R. 3935,Tom,Cotton,R,AR,Yea
+723,H.R. 3935,Kevin,Cramer,R,ND,Yea
+724,H.R. 3935,Mike,Crapo,R,ID,Yea
+725,H.R. 3935,Ted,Cruz,R,TX,Yea
+726,H.R. 3935,Steve,Daines,R,MT,Yea
+727,H.R. 3935,Tammy,Duckworth,D,IL,Yea
+728,H.R. 3935,Richard,Durbin,D,IL,Yea
+729,H.R. 3935,Joni,Ernst,R,IA,Yea
+730,H.R. 3935,John,Fetterman,D,PA,Yea
+731,H.R. 3935,Deb,Fischer,R,NE,Yea
+732,H.R. 3935,Kirsten,Gillibrand,D,NY,Yea
+733,H.R. 3935,Lindsey,Graham,R,SC,Yea
+734,H.R. 3935,Chuck,Grassley,R,IA,Yea
+735,H.R. 3935,Bill,Hagerty,R,TN,Yea
+736,H.R. 3935,Maggie,Hassan,D,NH,Yea
+737,H.R. 3935,Josh,Hawley,R,MO,Nay
+738,H.R. 3935,Martin,Heinrich,D,NM,Yea
+739,H.R. 3935,John,Hickenlooper,D,CO,Yea
+740,H.R. 3935,Mazie,Hirono,D,HI,Yea
+741,H.R. 3935,John,Hoeven,R,ND,Yea
+742,H.R. 3935,Cindy,Hyde-Smith,R,MS,Yea
+743,H.R. 3935,Ron,Johnson,R,WI,Yea
+744,H.R. 3935,Timothy,Kaine,D,VA,Nay
+745,H.R. 3935,Mark,Kelly,D,AZ,Not Voting
+746,H.R. 3935,John,Kennedy,R,LA,Nay
+747,H.R. 3935,Angus,King,I,ME,Yea
+748,H.R. 3935,Amy,Klobuchar,D,MN,Yea
+749,H.R. 3935,James,Lankford,R,OK,Yea
+750,H.R. 3935,Mike,Lee,R,UT,Nay
+751,H.R. 3935,Ben,Lujan,D,NM,Yea
+752,H.R. 3935,Cynthia,Lummis,R,WY,Yea
+753,H.R. 3935,Joseph,Manchin,D,WV,Yea
+754,H.R. 3935,Edward,Markey,D,MA,Yea
+755,H.R. 3935,Roger,Marshall,R,KS,Yea
+756,H.R. 3935,Mitch,McConnell,R,KY,Yea
+757,H.R. 3935,Robert,Menendez,D,NJ,Yea
+758,H.R. 3935,Jeff,Merkley,D,OR,Yea
+759,H.R. 3935,Jerry,Moran,R,KS,Yea
+760,H.R. 3935,Markwayne,Mullin,R,OK,Yea
+761,H.R. 3935,Lisa,Murkowski,R,AK,Yea
+762,H.R. 3935,Christopher,Murphy,D,CT,Yea
+763,H.R. 3935,Patty,Murray,D,WA,Yea
+764,H.R. 3935,Jon,Ossoff,D,GA,Yea
+765,H.R. 3935,Alex,Padilla,D,CA,Yea
+766,H.R. 3935,Rand,Paul,R,KY,Yea
+767,H.R. 3935,Gary,Peters,D,MI,Yea
+768,H.R. 3935,John,Reed,D,RI,Yea
+769,H.R. 3935,Pete,Ricketts,R,NE,Yea
+770,H.R. 3935,James ,Risch,R,ID,Yea
+771,H.R. 3935,Mitt,Romney,R,UT,Yea
+772,H.R. 3935,Jacklyn,Rosen,D,NV,Yea
+773,H.R. 3935,Mike,Rounds,R,SD,Yea
+774,H.R. 3935,Marco,Rubio,R,FL,Yea
+775,H.R. 3935,Bernard,Sanders,I,VT,Nay
+776,H.R. 3935,Brian,Schatz,D,HI,Yea
+777,H.R. 3935,Eric ,Schmitt,R,MO,Yea
+778,H.R. 3935,Charles,Schumer,D,NY,Yea
+779,H.R. 3935,Rick,Scott,R,FL,Yea
+780,H.R. 3935,Tim,Scott,R,SC,Yea
+781,H.R. 3935,Jeanne,Shaheen,D,NH,Yea
+782,H.R. 3935,Kyrsten,Sinema,I,AZ,Yea
+783,H.R. 3935,Tina,Smith,D,MN,Yea
+784,H.R. 3935,Debbie,Stabenow,D,MI,Yea
+785,H.R. 3935,Dan,Sullivan,R,AK,Yea
+786,H.R. 3935,Jon,Tester,D,MT,Yea
+787,H.R. 3935,John,Thune,R,SD,Yea
+788,H.R. 3935,Thomas,Tillis,R,NC,Yea
+789,H.R. 3935,Tommy,Tuberville,R,AL,Yea
+790,H.R. 3935,Chris,Van Hollen,D,MD,Nay
+791,H.R. 3935,J.,Vance,R,OH,Nay
+792,H.R. 3935,Mark,Warner,D,VA,Nay
+793,H.R. 3935,Raphael,Warnock,D,GA,Yea
+794,H.R. 3935,Elizabeth,Warren,D,MA,Nay
+795,H.R. 3935,Peter,Welch,D,VT,Yea
+796,H.R. 3935,Sheldon,Whitehouse,D,RI,Yea
+797,H.R. 3935,Roger,Wicker,R,MS,Yea
+798,H.R. 3935,Ron,Wyden,D,OR,Yea
+799,H.R. 3935,Todd,Young,R,IN,Yea
+800,H.R. 815,Tammy,Baldwin,D,WI,Yea
+801,H.R. 815,John,Barrasso,R,WY,Nay
+802,H.R. 815,Michael,Bennet,D,CO,Yea
+803,H.R. 815,Marsha,Blackburn,R,TN,Nay
+804,H.R. 815,Richard,Blumenthal,D,CT,Yea
+805,H.R. 815,Cory,Booker,D,NJ,Yea
+806,H.R. 815,John,Boozman,R,AR,Yea
+807,H.R. 815,Mike,Braun,R,IN,Nay
+808,H.R. 815,Katie,Britt,R,AL,Yea
+809,H.R. 815,Sherrod ,Brown,D,OH,Yea
+810,H.R. 815,Ted,Budd,R,NC,Nay
+811,H.R. 815,Laphonza,Butler,D,CA,Yea
+812,H.R. 815,Maria,Cantwell,D,WA,Yea
+813,H.R. 815,Shelley,Capito,R,WV,Yea
+814,H.R. 815,Ben,Cardin,D,MD,Yea
+815,H.R. 815,Thomas,Carper,D,DE,Yea
+816,H.R. 815,Bob,Casey,D,PA,Yea
+817,H.R. 815,Bill,Cassidy,R,LA,Yea
+818,H.R. 815,Susan,Collins,R,ME,Yea
+819,H.R. 815,Christopher,Coons,D,DE,Yea
+820,H.R. 815,John,Cornyn,R,TX,Yea
+821,H.R. 815,Catherine,Cortez Masto,D,NV,Yea
+822,H.R. 815,Tom,Cotton,R,AR,Yea
+823,H.R. 815,Kevin,Cramer,R,ND,Yea
+824,H.R. 815,Mike,Crapo,R,ID,Yea
+825,H.R. 815,Ted,Cruz,R,TX,Nay
+826,H.R. 815,Steve,Daines,R,MT,Yea
+827,H.R. 815,Tammy,Duckworth,D,IL,Yea
+828,H.R. 815,Richard,Durbin,D,IL,Yea
+829,H.R. 815,Joni,Ernst,R,IA,Yea
+830,H.R. 815,John,Fetterman,D,PA,Yea
+831,H.R. 815,Deb,Fischer,R,NE,Yea
+832,H.R. 815,Kirsten,Gillibrand,D,NY,Yea
+833,H.R. 815,Lindsey,Graham,R,SC,Yea
+834,H.R. 815,Chuck,Grassley,R,IA,Yea
+835,H.R. 815,Bill,Hagerty,R,TN,Nay
+836,H.R. 815,Maggie,Hassan,D,NH,Yea
+837,H.R. 815,Josh,Hawley,R,MO,Nay
+838,H.R. 815,Martin,Heinrich,D,NM,Yea
+839,H.R. 815,John,Hickenlooper,D,CO,Yea
+840,H.R. 815,Mazie,Hirono,D,HI,Yea
+841,H.R. 815,John,Hoeven,R,ND,Yea
+842,H.R. 815,Cindy,Hyde-Smith,R,MS,Yea
+843,H.R. 815,Ron,Johnson,R,WI,Nay
+844,H.R. 815,Timothy,Kaine,D,VA,Yea
+845,H.R. 815,Mark,Kelly,D,AZ,Yea
+846,H.R. 815,John,Kennedy,R,LA,Yea
+847,H.R. 815,Angus,King,I,ME,Yea
+848,H.R. 815,Amy,Klobuchar,D,MN,Yea
+849,H.R. 815,James,Lankford,R,OK,Yea
+850,H.R. 815,Mike,Lee,R,UT,Nay
+851,H.R. 815,Ben,Lujan,D,NM,Yea
+852,H.R. 815,Cynthia,Lummis,R,WY,Nay
+853,H.R. 815,Joseph,Manchin,D,WV,Yea
+854,H.R. 815,Edward,Markey,D,MA,Yea
+855,H.R. 815,Roger,Marshall,R,KS,Nay
+856,H.R. 815,Mitch,McConnell,R,KY,Yea
+857,H.R. 815,Robert,Menendez,D,NJ,Yea
+858,H.R. 815,Jeff,Merkley,D,OR,Nay
+859,H.R. 815,Jerry,Moran,R,KS,Yea
+860,H.R. 815,Markwayne,Mullin,R,OK,Yea
+861,H.R. 815,Lisa,Murkowski,R,AK,Yea
+862,H.R. 815,Christopher,Murphy,D,CT,Yea
+863,H.R. 815,Patty,Murray,D,WA,Yea
+864,H.R. 815,Jon,Ossoff,D,GA,Yea
+865,H.R. 815,Alex,Padilla,D,CA,Yea
+866,H.R. 815,Rand,Paul,R,KY,Not Voting
+867,H.R. 815,Gary,Peters,D,MI,Yea
+868,H.R. 815,John,Reed,D,RI,Yea
+869,H.R. 815,Pete,Ricketts,R,NE,Yea
+870,H.R. 815,James ,Risch,R,ID,Yea
+871,H.R. 815,Mitt,Romney,R,UT,Yea
+872,H.R. 815,Jacklyn,Rosen,D,NV,Yea
+873,H.R. 815,Mike,Rounds,R,SD,Yea
+874,H.R. 815,Marco,Rubio,R,FL,Nay
+875,H.R. 815,Bernard,Sanders,I,VT,Nay
+876,H.R. 815,Brian,Schatz,D,HI,Yea
+877,H.R. 815,Eric ,Schmitt,R,MO,Nay
+878,H.R. 815,Charles,Schumer,D,NY,Yea
+879,H.R. 815,Rick,Scott,R,FL,Nay
+880,H.R. 815,Tim,Scott,R,SC,Not Voting
+881,H.R. 815,Jeanne,Shaheen,D,NH,Yea
+882,H.R. 815,Kyrsten,Sinema,I,AZ,Yea
+883,H.R. 815,Tina,Smith,D,MN,Yea
+884,H.R. 815,Debbie,Stabenow,D,MI,Yea
+885,H.R. 815,Dan,Sullivan,R,AK,Yea
+886,H.R. 815,Jon,Tester,D,MT,Yea
+887,H.R. 815,John,Thune,R,SD,Yea
+888,H.R. 815,Thomas,Tillis,R,NC,Yea
+889,H.R. 815,Tommy,Tuberville,R,AL,Not Voting
+890,H.R. 815,Chris,Van Hollen,D,MD,Yea
+891,H.R. 815,J.,Vance,R,OH,Nay
+892,H.R. 815,Mark,Warner,D,VA,Yea
+893,H.R. 815,Raphael,Warnock,D,GA,Yea
+894,H.R. 815,Elizabeth,Warren,D,MA,Yea
+895,H.R. 815,Peter,Welch,D,VT,Nay
+896,H.R. 815,Sheldon,Whitehouse,D,RI,Yea
+897,H.R. 815,Roger,Wicker,R,MS,Yea
+898,H.R. 815,Ron,Wyden,D,OR,Yea
+899,H.R. 815,Todd,Young,R,IN,Yea
+900,H.R. 815,Tammy,Baldwin,D,WI,Yea
+901,H.R. 815,John,Barrasso,R,WY,Nay
+902,H.R. 815,Michael,Bennet,D,CO,Yea
+903,H.R. 815,Marsha,Blackburn,R,TN,Nay
+904,H.R. 815,Richard,Blumenthal,D,CT,Yea
+905,H.R. 815,Cory,Booker,D,NJ,Yea
+906,H.R. 815,John,Boozman,R,AR,Yea
+907,H.R. 815,Mike,Braun,R,IN,Nay
+908,H.R. 815,Katie,Britt,R,AL,Nay
+909,H.R. 815,Sherrod ,Brown,D,OH,Yea
+910,H.R. 815,Ted,Budd,R,NC,Nay
+911,H.R. 815,Laphonza,Butler,D,CA,Yea
+912,H.R. 815,Maria,Cantwell,D,WA,Yea
+913,H.R. 815,Shelley,Capito,R,WV,Yea
+914,H.R. 815,Ben,Cardin,D,MD,Not Voting
+915,H.R. 815,Thomas,Carper,D,DE,Yea
+916,H.R. 815,Bob,Casey,D,PA,Yea
+917,H.R. 815,Bill,Cassidy,R,LA,Yea
+918,H.R. 815,Susan,Collins,R,ME,Yea
+919,H.R. 815,Christopher,Coons,D,DE,Yea
+920,H.R. 815,John,Cornyn,R,TX,Yea
+921,H.R. 815,Catherine,Cortez Masto,D,NV,Yea
+922,H.R. 815,Tom,Cotton,R,AR,Nay
+923,H.R. 815,Kevin,Cramer,R,ND,Yea
+924,H.R. 815,Mike,Crapo,R,ID,Yea
+925,H.R. 815,Ted,Cruz,R,TX,Nay
+926,H.R. 815,Steve,Daines,R,MT,Nay
+927,H.R. 815,Tammy,Duckworth,D,IL,Yea
+928,H.R. 815,Richard,Durbin,D,IL,Yea
+929,H.R. 815,Joni,Ernst,R,IA,Nay
+930,H.R. 815,John,Fetterman,D,PA,Yea
+931,H.R. 815,Deb,Fischer,R,NE,Yea
+932,H.R. 815,Kirsten,Gillibrand,D,NY,Yea
+933,H.R. 815,Lindsey,Graham,R,SC,Yea
+934,H.R. 815,Chuck,Grassley,R,IA,Nay
+935,H.R. 815,Bill,Hagerty,R,TN,Nay
+936,H.R. 815,Maggie,Hassan,D,NH,Yea
+937,H.R. 815,Josh,Hawley,R,MO,Not Voting
+938,H.R. 815,Martin,Heinrich,D,NM,Yea
+939,H.R. 815,John,Hickenlooper,D,CO,Yea
+940,H.R. 815,Mazie,Hirono,D,HI,Yea
+941,H.R. 815,John,Hoeven,R,ND,Yea
+942,H.R. 815,Cindy,Hyde-Smith,R,MS,Yea
+943,H.R. 815,Ron,Johnson,R,WI,Nay
+944,H.R. 815,Timothy,Kaine,D,VA,Yea
+945,H.R. 815,Mark,Kelly,D,AZ,Yea
+946,H.R. 815,John,Kennedy,R,LA,Yea
+947,H.R. 815,Angus,King,I,ME,Yea
+948,H.R. 815,Amy,Klobuchar,D,MN,Yea
+949,H.R. 815,James,Lankford,R,OK,Yea
+950,H.R. 815,Mike,Lee,R,UT,Nay
+951,H.R. 815,Ben,Lujan,D,NM,Yea
+952,H.R. 815,Cynthia,Lummis,R,WY,Nay
+953,H.R. 815,Joseph,Manchin,D,WV,Yea
+954,H.R. 815,Edward,Markey,D,MA,Yea
+955,H.R. 815,Roger,Marshall,R,KS,Nay
+956,H.R. 815,Mitch,McConnell,R,KY,Yea
+957,H.R. 815,Robert,Menendez,D,NJ,Yea
+958,H.R. 815,Jeff,Merkley,D,OR,Yea
+959,H.R. 815,Jerry,Moran,R,KS,Yea
+960,H.R. 815,Markwayne,Mullin,R,OK,Yea
+961,H.R. 815,Lisa,Murkowski,R,AK,Yea
+962,H.R. 815,Christopher,Murphy,D,CT,Yea
+963,H.R. 815,Patty,Murray,D,WA,Yea
+964,H.R. 815,Jon,Ossoff,D,GA,Yea
+965,H.R. 815,Alex,Padilla,D,CA,Yea
+966,H.R. 815,Rand,Paul,R,KY,Not Voting
+967,H.R. 815,Gary,Peters,D,MI,Yea
+968,H.R. 815,John,Reed,D,RI,Yea
+969,H.R. 815,Pete,Ricketts,R,NE,Yea
+970,H.R. 815,James ,Risch,R,ID,Yea
+971,H.R. 815,Mitt,Romney,R,UT,Yea
+972,H.R. 815,Jacklyn,Rosen,D,NV,Yea
+973,H.R. 815,Mike,Rounds,R,SD,Yea
+974,H.R. 815,Marco,Rubio,R,FL,Nay
+975,H.R. 815,Bernard,Sanders,I,VT,Nay
+976,H.R. 815,Brian,Schatz,D,HI,Yea
+977,H.R. 815,Eric ,Schmitt,R,MO,Nay
+978,H.R. 815,Charles,Schumer,D,NY,Yea
+979,H.R. 815,Rick,Scott,R,FL,Nay
+980,H.R. 815,Tim,Scott,R,SC,Not Voting
+981,H.R. 815,Jeanne,Shaheen,D,NH,Yea
+982,H.R. 815,Kyrsten,Sinema,I,AZ,Yea
+983,H.R. 815,Tina,Smith,D,MN,Yea
+984,H.R. 815,Debbie,Stabenow,D,MI,Yea
+985,H.R. 815,Dan,Sullivan,R,AK,Yea
+986,H.R. 815,Jon,Tester,D,MT,Yea
+987,H.R. 815,John,Thune,R,SD,Yea
+988,H.R. 815,Thomas,Tillis,R,NC,Yea
+989,H.R. 815,Tommy,Tuberville,R,AL,Not Voting
+990,H.R. 815,Chris,Van Hollen,D,MD,Yea
+991,H.R. 815,J.,Vance,R,OH,Nay
+992,H.R. 815,Mark,Warner,D,VA,Yea
+993,H.R. 815,Raphael,Warnock,D,GA,Yea
+994,H.R. 815,Elizabeth,Warren,D,MA,Yea
+995,H.R. 815,Peter,Welch,D,VT,Yea
+996,H.R. 815,Sheldon,Whitehouse,D,RI,Yea
+997,H.R. 815,Roger,Wicker,R,MS,Yea
+998,H.R. 815,Ron,Wyden,D,OR,Yea
+999,H.R. 815,Todd,Young,R,IN,Yea
