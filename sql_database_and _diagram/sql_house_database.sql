@@ -1,3 +1,4 @@
+-- import house_rep_names_modified.csv
 CREATE TABLE house_rep (
     name VARCHAR(100),
     term_type VARCHAR(15),
@@ -11,6 +12,7 @@ CREATE TABLE house_rep (
 	PRIMARY KEY (name)
 );
 
+-- import house_vote_tallies_modified.csv
 CREATE TABLE house_vote_tallies (
 	unnamed INT,
     bill_number VARCHAR(15),
@@ -31,3 +33,4 @@ select * from house_vote_tallies;
 select * from house_rep
 join house_vote_tallies
 on house_rep.name = house_vote_tallies.full_name;
+
