@@ -25,4 +25,6 @@ Senate vote data was pulled from https://www.senate.gov/
 References for House of Representatives Data
 House of Representatives were pulled from https://theunitedstates.io/congress-legislators/legislators-current.json
 
+References for where each senator resides in was pulled from https://theunitedstates.io/congress-legislators/legislators-current.json
+
 ERD diagram was created with https://app.quickdatabasediagrams.com/#/d/YOk6ei
