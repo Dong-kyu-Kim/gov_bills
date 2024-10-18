@@ -9,6 +9,8 @@ This data is used to inform voters and further political knowledge in the United
 
 # Instructions
 Instructions on how to use and interact with the project
+The csv file extracted from the API using Jupyter notebook is processed to fit in the database and converted into a modified file.
+The database was constructed by importing files extracted in the format of csv files into the database. Files that fit each table are annotated in the corresponding code, so you can refer to them.
 Pull information on each reap from the SQL database using SQL
 The reason for using SQL database was that the data was structured and stability and consistency were important.
 
